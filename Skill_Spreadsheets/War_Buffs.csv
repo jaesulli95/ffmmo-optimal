@@ -1,0 +1,2 @@
+﻿buff_id,buff_name,buff_duration,buff_cooldown,max_buff_uptime,dmg_percent_increase
+10000,Storm's Path,30,0,100,10

@@ -1,0 +1,19 @@
+{
+  "strength": 2336,
+  "dexterity": 373,
+  "Vitality": 2406,
+  "Intelligence": 155,
+  "Mind": 2113,
+  "Critical_Hit": 2118,
+  "Determination": 1825,
+  "Direct_Hit": 400,
+  "Defense": 4267,
+  "Magic_Defense": 4267,
+  "Attack_Power": 2336,
+  "Skill_Speed": 641,
+  "Attack_Magic_Potency": 155,
+  "Healing_Magic_Potency": 213,
+  "Spell_Speed" : 400,
+  "Tenacity": 1232,
+  "Piety": 390
+}
